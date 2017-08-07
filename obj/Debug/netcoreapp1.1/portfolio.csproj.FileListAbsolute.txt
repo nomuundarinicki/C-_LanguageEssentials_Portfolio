@@ -1,0 +1,8 @@
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/portfolio/bin/Debug/netcoreapp1.1/portfolio.deps.json
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/portfolio/bin/Debug/netcoreapp1.1/portfolio.runtimeconfig.json
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/portfolio/bin/Debug/netcoreapp1.1/portfolio.runtimeconfig.dev.json
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/portfolio/bin/Debug/netcoreapp1.1/portfolio.dll
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/portfolio/bin/Debug/netcoreapp1.1/portfolio.pdb
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/portfolio/obj/Debug/netcoreapp1.1/portfolio.AssemblyInfo.cs
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/portfolio/obj/Debug/netcoreapp1.1/portfolio.dll
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/portfolio/obj/Debug/netcoreapp1.1/portfolio.pdb

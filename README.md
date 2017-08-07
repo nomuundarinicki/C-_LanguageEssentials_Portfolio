@@ -1,1 +1,2 @@
-# C-_LanguageEssentials_Portfolio
+Portfolio
+We should practice our ability of including static files such as CSS, JS, or IMGs. To do this we are going to create a simple portfolio website that contains 3 key pages. These pages will be a home page that is mostly personal information, a projects page that lists various projects you have worked on, and a contact page with a form where people visiting your website can send you information. There will also be a navbar at the top of each of these pages with buttons that will allow you to navigate to the various other pages. For this assignment, it is critical to be adding CSS styling to each page and using only images that are stored on your local server in the wwwroot directory!
